@@ -1,0 +1,3 @@
+$.ajaxPrefilter((options)=>{
+    op
+})
